@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: QMMenu
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Dress Color
+    icon: {fileID: 0}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 480b5ed935688614e9152e6e40086f9e, type: 2}
+    subParameters: []
+    labels: []
+  - name: Accessories
+    icon: {fileID: 0}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: adb9d95e0603d4c4c94a6be15e810c3e, type: 2}
+    subParameters: []
+    labels: []
+  - name: Skin Type
+    icon: {fileID: 0}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: f351552b03014c24098413f611b9754e, type: 2}
+    subParameters: []
+    labels: []
+  - name: Elden Eye
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: EldenEye
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Expressions
+    icon: {fileID: 0}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 57e0f88696acd35419133163bf9fcbf4, type: 2}
+    subParameters: []
+    labels: []
+  - name: GoGo Loco
+    icon: {fileID: 2800000, guid: 82ab53a641de2f1448023168217721eb, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: baeec049e3e46124a81328d5765dd580, type: 2}
+    subParameters: []
+    labels: []
